@@ -1,5 +1,6 @@
 /info
 /data/ac/AerialPhotos/tutorial
+
 /data/ac/AerialPhotos/hxip_m_3711955_ne_11_100
 /data/ac/AerialPhotos/hxip_m_3711955_clipped_11_100.tif
 /data/ac/AerialPhotos/hxip_m_3711955_clipped_11_100.tif.aux.xml
@@ -7,3 +8,13 @@
 /data/ac/AerialPhotos/hxip_m_3711955_ne_11_100.tif.aux.xml
 /data/ac/AerialPhotos/hxip_m_3711955_nw_11_100.tif
 /data/ac/AerialPhotos/hxip_m_3711955_nw_11_100.tif.aux.xml
+
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/images
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100.tif.aux.xml
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_mar_ac.tif.aux.xml
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_ndvi.tif
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_tag_ac_march24.dbf
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_tag_ac_march24.prj
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_tag_ac_march24.qgz
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_tag_ac_march24.shp
+/data/ac/AerialPhotos/hxip_m_3711955_nw_11_100/hxip_m_3711955_nw_11_100_tag_ac_march24.shx
